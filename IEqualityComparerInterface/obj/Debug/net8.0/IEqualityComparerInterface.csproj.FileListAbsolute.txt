@@ -1,0 +1,14 @@
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\bin\Debug\net8.0\IEqualityComparerInterface.exe
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\bin\Debug\net8.0\IEqualityComparerInterface.deps.json
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\bin\Debug\net8.0\IEqualityComparerInterface.runtimeconfig.json
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\bin\Debug\net8.0\IEqualityComparerInterface.dll
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\bin\Debug\net8.0\IEqualityComparerInterface.pdb
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.AssemblyInfoInputs.cache
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.AssemblyInfo.cs
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.csproj.CoreCompileInputs.cache
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.dll
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\refint\IEqualityComparerInterface.dll
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.pdb
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.genruntimeconfig.cache
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\ref\IEqualityComparerInterface.dll
