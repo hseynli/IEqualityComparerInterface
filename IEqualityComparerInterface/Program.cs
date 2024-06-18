@@ -10,7 +10,7 @@
             new Person("Jane", "Smith")
         };
 
-        bool result = list.Contains(new Person("John", "Doe"));
+        bool result = list.Contains(list.First());
         Console.WriteLine(result);
 
         Console.WriteLine("\nDone!");

@@ -12,3 +12,4 @@ C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterfac
 C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.pdb
 C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.genruntimeconfig.cache
 C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\ref\IEqualityComparerInterface.dll
+C:\Users\hseyn\source\repos\IEqualityComparerInterface\IEqualityComparerInterface\obj\Debug\net8.0\IEqualityComparerInterface.sourcelink.json
